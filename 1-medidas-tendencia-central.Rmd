@@ -22,7 +22,7 @@ numeros
 
 ### 2. Mediana 📍 {style="text-align: justify;"}
 
-> "En el ámbito de la estadística, la mediana (del latín *mediānus* 'del medio'^[1](https://es.wikipedia.org/wiki/Mediana_(estad%C3%ADstica)#cite_note-1)^​) representa el valor de la variable de posición central en un conjunto de datos ordenados. Se le denota mediana."
+> "En el ámbito de la estadística, la mediana (del latín *mediānus* 'del medio'​) representa el valor de la variable de posición central en un conjunto de datos ordenados. Se le denota mediana."
 >
 > "Si la serie tiene un número par de puntuaciones, la mediana es la media entre las dos puntuaciones centrales."
 >
@@ -113,8 +113,6 @@ media.muestra
 # Aquí el cálculo de la moda
 tabla.muestra <- data.frame(table(muestra))
 tabla.muestra
-moda.muestra <- 2
-moda.muestra
 ```
 
 <center>
